@@ -1,7 +1,4 @@
 /***
- * * Name: Zubets Sergii
- * * NetID: zubets.sv
- * * Precept: week 04 (23/9 - 29/9)
  * *
  * * Description: This program show you how percent accrued on deposit monthly.
  */
